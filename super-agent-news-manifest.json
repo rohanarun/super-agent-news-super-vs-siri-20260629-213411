@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[theverge.com](https://www.theverge.com/tech/942416/apple-siri-ai-update-wwdc)",
+    "[apple.com](https://www.apple.com/gn/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/)",
+    "[androidauthority.com](https://www.androidauthority.com/siri-ai-vs-gemini-hands-on-comparison-3677330/)",
+    "[forbes.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQNnZNM2dDXzRibUR1d0RUNFV3Ujdyc0FEZW9EOThxcG5pR0lKQkVXV25NWXVuRnEzX3RxY0xoeENOSVE2cTl3V3VtNVdqbDBabzg0eUZZWmhnbDQyUTJ2aHFqcGRYeFcwbng4LTJQc0RaaEc4YlJFaDVwZjlSaV96SEtVME1KSzcxeXNKZldFTQ)",
+    "[blog.google](https://blog.google)",
+    "[searchenginejournal.com](https://news.google.com/rss/articles/CBMixgFBVV95cUxPRVJoRjFoQjUzdGpSQlNUNUZmQTBUUzBnRkFqZUl2N0N6SkxaS3kzTmR1cUZDZFJ3cEsxcjFYQXVWYmh2RU56UEhlLVpZS2JQcE5WRmg1LXRGRUJUVmxMeWdnTlRkQjNNNzVCTThETk8zRW5qMnRlUnZGRjZWUFRPeVA3RVVtcDQtTklUWTk4T2NLOE1VWG9YVjdrM1BjMW1kd1JQZndaQy1PTURSUUg1eHcwV1NlRFBJOVR3SkpkeTZYX3lMT2c)"
+  ],
+  "design_plan": "rng=42; audience=competitor_comparison; AIDA_pass=true; hero_lines=3; hero_max_width\u22481120px; density_rule=grid-auto-flow:dense verified; label_sweep=all competitors mentioned; button_contrast=black/white pills verified.",
+  "generated_at": "2026-06-29T21:34:18.198853+00:00",
+  "headline": "Super vs Siri",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "A fair, editorial comparison of Super and Apple\u2019s new Siri AI for people choosing a personal AI agent. Siri excels as a privacy-first, systemwide assistant inside Apple devices. Super is built for repeated computer-use workflows, with agents that operate real desktops and reuse a computer-use cache to make ongoing work more efficient."
+}
